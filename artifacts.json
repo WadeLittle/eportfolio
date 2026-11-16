@@ -1,0 +1,121 @@
+[
+  {
+    "id": "ki1-wtc",
+    "insight": 1,
+    "type": "WTC",
+    "title": "CSCE 145/146 object-oriented programming project",
+    "file": "",
+    "link": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": "ki1-btc",
+    "insight": 1,
+    "type": "BTC",
+    "title": "Supervisor feedback from my Deutsche Bank team lead",
+    "file": "",
+    "link": "",
+    "description": "",
+    "meta": "Sumit Bahl, Team Lead, Deutsche Bank · Microsoft Teams message, August 2026 (transcribed)",
+    "quote": [
+      "Thank you for the kind note. It was a pleasure having you on the team this summer. … [Y]ou brought a great attitude, strong curiosity, and a willingness to jump into new challenges from day one. Another thing I liked about you was consistently asking thoughtful questions, taking ownership of your work, and you made meaningful contributions to the team.",
+      "You should be proud of what you accomplished this summer. The progress you made as an engineer, problem solver, and teammate was evident, and I have no doubt you’ll continue to do great things wherever your career takes you.",
+      "Thank you for all your hard work, and please stay in touch. Wishing you all the best in your final year and beyond."
+    ],
+    "quote_by": "— Sumit Bahl, Team Lead, Deutsche Bank"
+  },
+  {
+    "id": "ki1-btc2",
+    "insight": 1,
+    "type": "BTC",
+    "title": "Twisted Whisk website, built through Palmetto Advisors Group",
+    "file": "",
+    "link": "https://twistedwhisksc.com",
+    "image": "",
+    "description": "",
+    "meta": "Live client site for a Lexington, SC bakery · Home, gallery, and menu pages",
+    "images": [
+      "assets/artifacts/ki1-twisted-whisk/1-home.jpg",
+      "assets/artifacts/ki1-twisted-whisk/2-gallery.jpg",
+      "assets/artifacts/ki1-twisted-whisk/3-menu.jpg"
+    ],
+    "link_label": "Visit the live site",
+    "alt": "Twisted Whisk bakery website homepage"
+  },
+  {
+    "id": "ki2-wtc",
+    "insight": 2,
+    "type": "WTC",
+    "title": "MKTG 457 final sales pitch videos (30-second and 45-second versions)",
+    "file": "",
+    "link": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": "ki2-btc",
+    "insight": 2,
+    "type": "BTC",
+    "title": "CSIET employer partnership outreach / sponsorship proposal",
+    "file": "",
+    "link": "",
+    "image": "",
+    "description": ""
+  },
+  {
+    "id": "ki2-btc2",
+    "insight": 2,
+    "type": "BTC",
+    "title": "Microsoft Sales Competition: 2nd place, Beginners Flight",
+    "file": "",
+    "link": "",
+    "image": "",
+    "description": "",
+    "meta": "CSIET · Objective: upsell Microsoft E5 to a manufacturing company · Photo + results slides",
+    "images": [
+      "assets/artifacts/ki2-microsoft/1-winners-photo.jpg",
+      "assets/artifacts/ki2-microsoft/2-winners-slide.jpg",
+      "assets/artifacts/ki2-microsoft/3-overview-slide.jpg"
+    ],
+    "alt": "Microsoft Sales Competition winners holding their prizes"
+  },
+  {
+    "id": "ki3-wtc",
+    "insight": 3,
+    "type": "WTC",
+    "title": "CSCE 201 Quiz 4: Basic cryptography (5/5)",
+    "file": "assets/artifacts/ki3-csce201-quiz4.pdf",
+    "link": "",
+    "image": "assets/artifacts/ki3-csce201-quiz4.jpg",
+    "description": "",
+    "alt": "Graded CSCE 201 Quiz 4 showing a 5 out of 5 score on cipher and key-exchange questions",
+    "meta": "Submitted 2/16/2025 · Graded quiz, 3 pages"
+  },
+  {
+    "id": "ki3-btc",
+    "insight": 3,
+    "type": "BTC",
+    "title": "Published paper (IEEE SATC 2026): A Scalable and Privacy-Preserving Sealed-Bid Auction Framework for IoT Data Marketplaces",
+    "file": "",
+    "link": "https://doi.org/10.1109/SATC69565.2026.11542244",
+    "image": "assets/artifacts/ki3-paper-title.jpg",
+    "description": "",
+    "alt": "Title slide of the paper by Hassan Mahmoud, Wade Little, Mahmoud Nabil Mahmoud, and Ahmad Alsharif",
+    "link_label": "Read on IEEE Xplore",
+    "meta": "IEEE SATC 2026 · Co-author with Hassan Mahmoud, Mahmoud Nabil Mahmoud, and Ahmad Alsharif"
+  },
+  {
+    "id": "ki3-btc2",
+    "insight": 3,
+    "type": "BTC",
+    "title": "Solo conference presentation, Houston, TX (slides + photo)",
+    "file": "assets/artifacts/ki3-conference-slides.pdf",
+    "link": "",
+    "image": "assets/artifacts/ki3-conference-photo.jpg",
+    "description": "",
+    "alt": "Wade Little presenting the auction framework research to a conference audience in Houston",
+    "gallery_includes_image": true,
+    "meta": "Conference photo + 20 presentation slides"
+  }
+]
